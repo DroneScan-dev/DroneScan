@@ -1,0 +1,14 @@
+# Core
+numpy
+opencv-python
+onnxruntime
+
+# API / dashboard
+fastapi
+uvicorn
+websockets
+
+# Dev / test
+pytest
+black
+ruff
